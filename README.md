@@ -8,3 +8,4 @@ demo地址： http://fouber.github.io/demo/GodJob/
 
 ![食物链](http://fouber.github.io/demo/GodJob/img.png)
 
+目前没有碰到过系统能维持生态平衡的情况，估计是程序太挫逼了。通常是所有微生物都死光了，或者水草疯狂繁殖，浏览器卡死。
